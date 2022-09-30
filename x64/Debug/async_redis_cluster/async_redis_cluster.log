@@ -1,0 +1,54 @@
+﻿  async_redis_cluster.cpp
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.h(55,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.h(55,10): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.h(61,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.h(61,10): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.h(67,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.h(67,10): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.h(73,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.h(73,10): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.h(79,10): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.h(79,10): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\libuv\libuv\include\uv\win.h(28,1): warning C4005: “SSIZE_MAX”: 宏重定义
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.h(39): message : 参见“SSIZE_MAX”的前一个定义
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\adapters\libuv.h(117,22): warning C4244: “初始化”: 从“double”转换到“uint64_t”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(21,1): warning C4005: “REDIS_REPLY_VERB”: 宏重定义
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\read.h(64): message : 参见“REDIS_REPLY_VERB”的前一个定义
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(129,10): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“uv_thread_t”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(129,10): warning C4313: “printf”: 格式字符串中的“%u”与“uv_thread_t”类型的参数 1 冲突
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(174,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“redisReply *”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(174,12): warning C4313: “printf”: 格式字符串中的“%x”与“redisReply *”类型的参数 1 冲突
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(192,12): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“redisReply *”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(192,12): warning C4313: “printf”: 格式字符串中的“%x”与“redisReply *”类型的参数 1 冲突
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(650,11): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“std::thread::id”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(654,11): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“std::thread::id”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(949,11): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“std::thread::id”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(953,11): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“std::thread::id”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(1243,11): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“std::thread::id”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(1247,11): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“std::thread::id”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(1537,11): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“std::thread::id”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(1537,11): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 3 拥有了类型“double”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(1541,11): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“std::thread::id”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(1541,11): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 2 拥有了类型“double”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(1832,11): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“std::thread::id”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(1832,11): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 3 拥有了类型“int”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(1832,11): message : 请考虑在格式字符串中使用“%d”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(1832,11): message : 请考虑在格式字符串中使用“%I32d”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(1836,11): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“std::thread::id”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(1836,11): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 2 拥有了类型“int”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(1836,11): message : 请考虑在格式字符串中使用“%d”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(1836,11): message : 请考虑在格式字符串中使用“%I32d”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(2142,11): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“std::thread::id”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.h(2146,11): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“std::thread::id”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.cpp(67,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.cpp(67,10): message : 请考虑在格式字符串中使用“%zd”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.cpp(121,14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.cpp(121,14): message : 请考虑在格式字符串中使用“%zd”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.cpp(125,14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.cpp(125,14): message : 请考虑在格式字符串中使用“%zd”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.cpp(136,14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.cpp(136,14): message : 请考虑在格式字符串中使用“%zd”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.cpp(140,14): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.cpp(140,14): message : 请考虑在格式字符串中使用“%zd”
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\src\async_redis_cluster.cpp(144,11): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“std::thread::id”
+  async_redis_cluster.vcxproj -> D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\x64\Debug\async_redis_cluster.exe

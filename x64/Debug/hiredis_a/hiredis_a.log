@@ -1,0 +1,40 @@
+﻿  async.c
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\async.c(62,54): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\async.c(81,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\async.c(82,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  dict.c
+  hiredis.c
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\hiredis.c(345,54): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\hiredis.c(501,42): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\hiredis.c(520,34): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\hiredis.c(972,48): warning C4244: “=”: 从“ssize_t”转换到“int”，可能丢失数据
+  net.c
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\net.c(290,14): warning C4267: “函数”: 从“size_t”转换到“socklen_t”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\net.c(355,9): warning C4267: “函数”: 从“size_t”转换到“socklen_t”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\net.c(359,9): warning C4267: “函数”: 从“size_t”转换到“socklen_t”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\net.c(503,21): warning C4267: “函数”: 从“size_t”转换到“socklen_t”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\net.c(526,13): warning C4267: “函数”: 从“size_t”转换到“socklen_t”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\net.c(652,4): warning C4102: “oom”: 未引用的标签
+  read.c
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\read.c(216,37): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\read.c(232,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\read.c(406,38): warning C4267: “=”: 从“size_t”转换到“unsigned long”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\read.c(429,29): warning C4244: “+=”: 从“__int64”转换到“unsigned long”，可能丢失数据
+  sds.c
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.c(102,52): warning C4267: “=”: 从“size_t”转换到“unsigned char”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.c(107,30): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.c(108,32): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.c(114,30): warning C4267: “=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.c(115,32): warning C4267: “=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.c(121,30): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.c(122,32): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.c(462,13): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.c(491,13): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.c(590,18): warning C4267: “=”: 从“size_t”转换到“long”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.c(618,23): warning C4267: “+=”: 从“size_t”转换到“long”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.c(635,27): warning C4267: “+=”: 从“size_t”转换到“long”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.c(653,27): warning C4267: “+=”: 从“size_t”转换到“long”，可能丢失数据
+D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\ThirdParty\hiredis\hiredis\sds.c(792,31): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  sockcompat.c
+  正在生成代码...
+  hiredis_a.vcxproj -> D:\work\github\ppshuai_async_redis_cluster\src\async_redis_cluster\x64\Debug\hiredis_a.lib
